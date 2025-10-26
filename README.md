@@ -3,6 +3,7 @@
 A twin stick shooter made in one week for the Code for a Cause game jam.
 
 ![Gameplay demo](Media/WallRunner(1).gif)
+> Not sure why the gif looks so bad on github, the weird grid isn't actually there.
 
 ## About
 
