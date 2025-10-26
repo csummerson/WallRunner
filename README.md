@@ -2,6 +2,8 @@
 
 A twin stick shooter made in one week for the Code for a Cause game jam.
 
+![Gameplay demo](Media/WallRunner(1).gif)
+
 ## About
 
 WallRunner is a fast-paced dungeon shooter where you must fight enemies and outpace a wall that will kill you if you lag behind.
