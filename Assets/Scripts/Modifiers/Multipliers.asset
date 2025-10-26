@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89a8878c3bea84549a9785f8438e9a7d, type: 3}
+  m_Name: Multipliers
+  m_EditorClassIdentifier: 
+  definitions:
+  - menuText: Increase player movement speed
+    magnitude: 1
+    modifierTarget: 0
+    benefit: 1
+    multiply: 0
+  - menuText: Increase player shooting speed
+    magnitude: 2
+    modifierTarget: 1
+    benefit: 1
+    multiply: 1
+  - menuText: Increase player health
+    magnitude: 5
+    modifierTarget: 2
+    benefit: 1
+    multiply: 0
+  - menuText: Increase enemy movement speed
+    magnitude: 0.5
+    modifierTarget: 3
+    benefit: 0
+    multiply: 0
+  - menuText: Increase enemy shooting speed
+    magnitude: 2
+    modifierTarget: 4
+    benefit: 0
+    multiply: 1
+  - menuText: Increase enemy health
+    magnitude: 2
+    modifierTarget: 5
+    benefit: 0
+    multiply: 0
+  - menuText: Increase shredder wall movement speed
+    magnitude: 1
+    modifierTarget: 6
+    benefit: 0
+    multiply: 0
