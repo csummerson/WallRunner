@@ -23,8 +23,8 @@ This game placed 16th in the judge rankings and 9th in the community ranking aga
 ## Difficulty System
 The most interesting system to implement was based on a mix of Transistor and an April Fool's Minecraft snapshot.
 When a player levels up, they may choose between one of two different boons. However, each boon will also come with a drawback that is applied to either their enemies or the wall pursuing them.
-When a player dies, they keep their boons, yet are allowed to the choice to remove one of two drawbacks.
-Through this system, death becomes an indirect benefit to Keep Moving Forward.
+When a player dies, they keep their boons, yet are allowed the choice to remove one of two drawbacks.
+The intent behind this system was to make death an indirect way to "Keep Moving Forward".
 
 ## Tech Stack
 - Engine: Unity 2022
