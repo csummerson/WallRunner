@@ -12,7 +12,6 @@ WallRunner is a fast-paced dungeon shooter where you must fight enemies and outp
 The jam's theme was "Keep Moving Forward", which inspired both the kill-wall mechanic and the progression system for each run.
 
 This game was built in one week (with minor post jam updates). You may play the most recent version of the game and download a build [here](http://bit.ly/42UFdnV).
-> Note that the name for this repository is different.
 
 This game placed 16th in the judge rankings and 9th in the community ranking against ~250 other entries.
 
